@@ -31,3 +31,9 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.portfolio h2 {
+  font-size: 23px;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
